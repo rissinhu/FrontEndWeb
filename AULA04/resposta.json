@@ -1,0 +1,50 @@
+{
+  "args": {},
+  "data": {},
+  "files": {
+    "": "data:application/octet-stream;base64,"
+  },
+  "form": {
+    "nome": "XXXXXXXXXXX",
+    "telefone": "XXXXXXXXXXX",
+    "email": "XXXXXXXXXXX@XXX.COM",
+    "data_nasc": "",
+    "logradouro": "XXXXXXXXXXX",
+    "cidade": "XXXXXXXXXXX",
+    "uf": "XX",
+    "numero": "",
+    "resumo": "XXXXXXXXXXX",
+    "nivel": "estagiario",
+    "tecnologia": [
+      "html",
+      "css"
+    ],
+    "escolaridade": "graduacao"
+  },
+  "headers": {
+    "host": "postman-echo.com",
+    "referer": "http://127.0.0.1:5500/",
+    "accept-encoding": "gzip, br",
+    "priority": "u=0, i",
+    "accept-language": "pt-BR,pt;q=0.9",
+    "content-length": "1514",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Brave\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "upgrade-insecure-requests": "1",
+    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryzOUDe27IfAfBuFfP",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+    "origin": "http://127.0.0.1:5500",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "sec-gpc": "1",
+    "sec-fetch-site": "cross-site",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "x-forwarded-proto": "https",
+    "cookie": "_cfuvid=xH0pJmOOQshn6qK1gSdvgECsw6Gh06kgDn1AvJ8gkes-1789919974.3961263-1.0.1.1-y5dZ5AiCWADmr_WcBZjjDHdIbBc4_osvOEH6JWpk10w; __cf_bm=PzcpXRESmYRaU7hM5TwpLqjtevztnzxaEV0hakDfljs-1789922207.649499-1.0.1.1-zLcX2UmC3YZpzmAItFwdhuY4GhW4JzaahDhx0poH2KYNkEx1yjiF7KAiAOi0gxFuPTC_ys7dS9PbpmKDhGpalBfh3h8nCjpaSUVaP1nwUEiSjMgzgGUWrDmwBG8.oPsa"
+  },
+  "json": null,
+  "url": "https://postman-echo.com/post"
+}
